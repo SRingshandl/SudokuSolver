@@ -1,4 +1,7 @@
 # SudokuSolver
+
+<img src="https://github.com/SRingshandl/SudokuSolver/blob/main/Example_Image.png" width="50%">
+
 Solves a sudoku game by brute focing it. Sometimes surprisingly fast...
 
 SudokuSolver.py requires you to enter a sudoku riddle as a list.  

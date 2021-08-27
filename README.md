@@ -1,6 +1,6 @@
 # SudokuSolver
 
-<img src="https://github.com/SRingshandl/SudokuSolver/blob/main/Example_Image.png" width="50%">
+<img src="https://github.com/SRingshandl/SudokuSolver/blob/main/ExampleImage.png" width="50%">
 
 Solves a sudoku game by brute focing it. Sometimes surprisingly fast...
 
